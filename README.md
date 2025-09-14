@@ -1,6 +1,6 @@
 # 👋 ¡Hola! / Hi there!  
 
-## 🇪🇸 Español  
+## Español  
 Mi nombre es **Richard Víquez**, soy de **Heredia, Costa Rica**.  
 
 - 👀 Estoy interesado en **colaborar** en proyectos de software de cualquier tipo, así como aprender de otros profesionales para seguir creciendo en el ámbito tecnológico.  
@@ -10,7 +10,7 @@ Mi nombre es **Richard Víquez**, soy de **Heredia, Costa Rica**.
 
 ---
 
-## 🌎 English  
+##  English  
 My name is **Richard Víquez**, and I am from **Heredia, Costa Rica**.  
 
 - 👀 I am interested in **collaborating** on software projects of any kind, as well as learning from others to continue growing professionally in the tech field.  
